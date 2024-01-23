@@ -2,6 +2,9 @@
 
 Welcome to the [Streamlit Dashboard for Atopic Dermatitis](https://suebatista-hackathon-dermatitis-hackathonmain-tq7icw.streamlit.app/)! This repository houses a user-friendly and interactive dashboard designed to facilitate exploration and understanding of data related to atopic dermatitis.
 
+![image](https://github.com/suebatista/streamlit_dermatitis/assets/58999412/1de58add-00e3-44a1-95e2-80ebbd9de9ae)
+
+
 ## Features:
 
 - **Intuitive Interface:** Our Streamlit application provides a seamless and intuitive interface, making it easy for users to navigate and explore relevant data on atopic dermatitis.
