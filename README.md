@@ -1,6 +1,6 @@
 # Streamlit Dashboard for Atopic Dermatitis
 
-Welcome to the Streamlit Dashboard for Atopic Dermatitis! This repository houses a user-friendly and interactive dashboard designed to facilitate exploration and understanding of data related to atopic dermatitis.
+Welcome to the [Streamlit Dashboard for Atopic Dermatitis](https://suebatista-hackathon-dermatitis-hackathonmain-tq7icw.streamlit.app/)! This repository houses a user-friendly and interactive dashboard designed to facilitate exploration and understanding of data related to atopic dermatitis.
 
 ## Features:
 
@@ -37,7 +37,7 @@ We welcome contributions to enhance and expand the features of this dashboard. W
 
 ## Feedback:
 
-If you have any feedback, suggestions, or issues, feel free to open an [issue](https://github.com/yourusername/atopic-dermatitis-dashboard/issues). Your input is crucial to improving this dashboard and making it a valuable resource for the community.
+If you have any feedback, suggestions, or issues, feel free to open an [issue](https://github.com/suebatista/streamlit_dermatitis/issues). Your input is crucial to improving this dashboard and making it a valuable resource for the community.
 
 ## License:
 
